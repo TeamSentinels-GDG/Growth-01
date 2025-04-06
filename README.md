@@ -12,14 +12,14 @@ Growth is a collaborative web application designed to make sharing and accessing
 
 ## 📦 Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript (via Project IDX)
-- **Backend:** Firebase (Firestore, Auth)
+- **Frontend:** Flutter (via Project IDX)
+- **Backend:** Flutter + Firebase (Firestore, Auth)
 - **AI Integration:** Gemini for smart tagging and search
 - **Version Control:** Git & GitHub
 
 ## 📸 Screenshots
 
-*(Add relevant screenshots here if available)*
+
 
 ## 🛠️ Setup
 
