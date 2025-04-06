@@ -1,14 +1,32 @@
-# 📚 Growth - Student Notes Sharing Platform
+# 🌱 Growth - "Learn together, grow as a community, and succeed as one." - Student Notes Sharing Platform
 
 Growth is a collaborative web application designed to make sharing and accessing academic notes easier for students. It offers both physical notes exchange and a searchable digital repository. Built using Firebase and deployed via Project IDX, Growth connects learners through a community-driven interface, helping them find and contribute study materials effortlessly.
 
-## 🚀 Features
+## 🛠️ How this app works?
 
+1. Learners and Educators can register with their Username, official E-mail ids (Google, Yahoo, Outlook) and have to set a password.
+
+2. They can use either username or mail-id and the password, they set during the registration, to login the application { Users need not to enter the login credentials after the first time }
+
+3. Learners can find Video Lectures ( High-ranking You-tube video recommendations or Community Posts ) to clear their doubts, by just entering the keyword in the search-bar.
+
+4. Learners can upload their Notes, on any topics, in the upload section. If the notes is physical, kindly click the "Physical Notes" option, which will require a Image of their Physical notes' and it will be uploaded in the posts section.
+If the notes is in digital format (PDF or docs), it will be checked for vulnerability and stored in Database and will be categorized using the tags provided by the user and also with the help of Gemini AI.
+
+5. Learners can search notes for any topics by just using a keyword and the related notes will be fetched from the database and will be delivered to them, with the help of Gemini AI.
+
+Future Developments:
+
+A New Section will be introduced exclusively for Community interactions, in which users can share their doubts and questionnaires and which will be answered by other users, building a better community platform for learners.
+
+## ✨ Features
+- 🔐 Secure login with email or username
 - 🔁 Exchange physical notes with peers by posting and requesting.
 - 🌐 Upload, search, and browse categorized digital notes.
 - 🎥 Integrated with YouTube to recommend top-rated educational videos.
 - 🤖 AI-powered keyword tagging and smart categorization.
 - 🔒 Firebase Authentication and Firestore-backed data management.
+- 🌍 Future feature: Community Q&A and volunteer teaching interactions
 
 ## 📦 Tech Stack
 
@@ -47,7 +65,7 @@ PROFILE PAGE:
 
 ![Screenshot 2025-04-06 133658](https://github.com/user-attachments/assets/ae7b398a-1073-470c-bd04-b20d93083bb2) 
 
-## 🛠️ Setup
+## 🔧 Setup
 
 1. Clone this repository
 2. Connect Firebase project
