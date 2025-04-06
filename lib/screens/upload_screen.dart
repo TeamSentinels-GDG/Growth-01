@@ -211,7 +211,7 @@ class _UploadScreenState extends State<UploadScreen> {
                 mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                 children: [
                   _buildRoundedButton("Pick a PDF or DOCX File", _pickFile),
-                  _buildRoundedButton("Capture Notes", _captureImage),
+                  _buildRoundedButton("Physical Notes", _captureImage),
                 ],
               ),
 
