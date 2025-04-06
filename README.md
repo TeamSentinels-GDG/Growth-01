@@ -1,16 +1,39 @@
-# myapp
+# 📚 Growth - Student Notes Sharing Platform
 
-A new Flutter project.
+Growth is a collaborative web application designed to make sharing and accessing academic notes easier for students. It offers both physical notes exchange and a searchable digital repository. Built using Firebase and deployed via Project IDX, Growth connects learners through a community-driven interface, helping them find and contribute study materials effortlessly.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 🔁 Exchange physical notes with peers by posting and requesting.
+- 🌐 Upload, search, and browse categorized digital notes.
+- 🎥 Integrated with YouTube to recommend top-rated educational videos.
+- 🤖 AI-powered keyword tagging and smart categorization.
+- 🔒 Firebase Authentication and Firestore-backed data management.
 
-A few resources to get you started if this is your first Flutter project:
+## 📦 Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Frontend:** HTML, CSS, JavaScript (via Project IDX)
+- **Backend:** Firebase (Firestore, Auth)
+- **AI Integration:** Gemini for smart tagging and search
+- **Version Control:** Git & GitHub
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+
+*(Add relevant screenshots here if available)*
+
+## 🛠️ Setup
+
+1. Clone this repository
+2. Connect Firebase project
+3. Deploy using Project IDX or Firebase Hosting
+
+## 🤝 Contributing
+
+Pull requests are welcome. For major changes, open an issue first to discuss what you’d like to change.
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
