@@ -55,7 +55,7 @@ SEARCH LECTURES ( YOUTUBE RECOMMENDATIONS AND COMMUNITY POSTS ):
 
 UPLOAD NOTES ( IF PHYSICAL NOTES, IT WILL BE POSTED ):
 
-![Screenshot 2025-04-06 133544](https://github.com/user-attachments/assets/ce5fc73b-96e1-430e-8aaa-58206ae6e262) 
+![image](https://github.com/user-attachments/assets/3ae4d66b-11ad-468e-975f-7101120f6d87)
 
 SEARCH DIGITAL NOTES:
 
